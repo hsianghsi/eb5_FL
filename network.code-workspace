@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../eb5/network"
+		},
+		{
+			"path": "../eb5_NY"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "eb5_FL"
+	}
+}

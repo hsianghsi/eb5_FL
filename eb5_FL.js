@@ -18,7 +18,7 @@ d3.json("https://raw.githubusercontent.com/bossbossleu/eb5/main/data/eb5_FL.json
   });
 
   // Create the parallel categories diagram
-  var width = 1920, height = 900; // Adjust as needed
+  var width = 1920, height = 960;
 
   // Append an SVG element to the myDiv container
   var svg = d3.select("#myDiv").append("svg")
